@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Feb 23 17:50:11 CST 2018
+https\://maven-repository.dev.java.net/nonav/repository/.error=Could not transfer artifact javax.mail\:mail\:jar\:1.4 from/to java.net (https\://maven-repository.dev.java.net/nonav/repository)\: Cannot access https\://maven-repository.dev.java.net/nonav/repository with type legacy using the available connector factories\: AetherRepositoryConnectorFactory, BasicRepositoryConnectorFactory
+@legacy-java.net-https\://maven-repository.dev.java.net/nonav/repository/.lastUpdated=1519309784961
+https\://repo.maven.apache.org/maven2/.lastUpdated=1519379411521

@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sat Feb 03 21:42:41 CST 2018
+http\://maven.aliyun.com/nexus/content/groups/public/.error=Could not transfer artifact io.netty\:netty\:jar\:3.7.0.Final from/to alimaven (http\://maven.aliyun.com/nexus/content/groups/public/)\: The operation was cancelled.
+@default-alimaven-http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1517665361464

@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Feb 23 17:50:12 CST 2018
+https\://oss.sonatype.org/content/repositories/releases/.error=Could not transfer artifact com.esotericsoftware.minlog\:minlog\:jar\:1.2 from/to sonatype-releases (https\://oss.sonatype.org/content/repositories/releases)\: The operation was cancelled.
+@default-sonatype-releases-https\://oss.sonatype.org/content/repositories/releases/.lastUpdated=1519309784976
+https\://repo.maven.apache.org/maven2/.lastUpdated=1519379412714

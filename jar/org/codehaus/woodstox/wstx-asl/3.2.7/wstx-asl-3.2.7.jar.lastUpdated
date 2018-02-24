@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sat Feb 03 21:42:41 CST 2018
+https\://repository.cloudera.com/artifactory/libs-release/.error=Could not transfer artifact org.codehaus.woodstox\:wstx-asl\:jar\:3.2.7 from/to releases.cloudera.com (https\://repository.cloudera.com/artifactory/libs-release)\: The operation was cancelled.
+http\://maven.restlet.org/.error=Could not transfer artifact org.codehaus.woodstox\:wstx-asl\:jar\:3.2.7 from/to maven-restlet (http\://maven.restlet.org)\: The operation was cancelled.
+@default-maven-restlet-http\://maven.restlet.org/.lastUpdated=1517665361474
+http\://maven.aliyun.com/nexus/content/groups/public/.error=Could not transfer artifact org.codehaus.woodstox\:wstx-asl\:jar\:3.2.7 from/to alimaven (http\://maven.aliyun.com/nexus/content/groups/public/)\: The operation was cancelled.
+@default-releases.cloudera.com-https\://repository.cloudera.com/artifactory/libs-release/.lastUpdated=1517665361475
+@default-alimaven-http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1517665361459

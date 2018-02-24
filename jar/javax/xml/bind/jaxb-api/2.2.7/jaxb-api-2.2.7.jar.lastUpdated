@@ -1,0 +1,9 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Feb 23 17:50:12 CST 2018
+@default-jboss-http\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1519309784961
+https\://maven.java.net/content/groups/staging/.error=Could not transfer artifact javax.xml.bind\:jaxb-api\:jar\:2.2.7 from/to staging.java.net (https\://maven.java.net/content/groups/staging/)\: The operation was cancelled.
+@default-staging.java.net-https\://maven.java.net/content/groups/staging/.lastUpdated=1519309784976
+@default-releases.java.net-https\://maven.java.net/content/repositories/releases/.lastUpdated=1519309784976
+https\://repo.maven.apache.org/maven2/.lastUpdated=1519379412635
+https\://maven.java.net/content/repositories/releases/.error=Could not transfer artifact javax.xml.bind\:jaxb-api\:jar\:2.2.7 from/to releases.java.net (https\://maven.java.net/content/repositories/releases/)\: The operation was cancelled.
+http\://repository.jboss.org/nexus/content/groups/public/.error=Could not transfer artifact javax.xml.bind\:jaxb-api\:jar\:2.2.7 from/to jboss (http\://repository.jboss.org/nexus/content/groups/public/)\: The operation was cancelled.

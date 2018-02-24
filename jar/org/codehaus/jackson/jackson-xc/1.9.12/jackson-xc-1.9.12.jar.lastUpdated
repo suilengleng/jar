@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Feb 23 17:50:12 CST 2018
+@default-jboss-http\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1519309784961
+https\://repo.maven.apache.org/maven2/.lastUpdated=1519379412589
+http\://repository.jboss.org/nexus/content/groups/public/.error=Could not transfer artifact org.codehaus.jackson\:jackson-xc\:jar\:1.9.12 from/to jboss (http\://repository.jboss.org/nexus/content/groups/public/)\: The operation was cancelled.

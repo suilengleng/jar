@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sat Feb 03 21:42:41 CST 2018
+http\://maven.aliyun.com/nexus/content/groups/public/.error=Could not transfer artifact org.apache.geronimo.specs\:geronimo-j2ee-management_1.1_spec\:jar\:1.0.1 from/to alimaven (http\://maven.aliyun.com/nexus/content/groups/public/)\: The operation was cancelled.
+@default-alimaven-http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1517665361470
+http\://repo.fusesource.com/nexus/content/groups/public/.error=Could not transfer artifact org.apache.geronimo.specs\:geronimo-j2ee-management_1.1_spec\:jar\:1.0.1 from/to com.fusesource.m2 (http\://repo.fusesource.com/nexus/content/groups/public/)\: The operation was cancelled.
+@default-com.fusesource.m2-http\://repo.fusesource.com/nexus/content/groups/public/.lastUpdated=1517665361481
